@@ -1,0 +1,21 @@
+{
+  "type": "panel",
+  "name": "ES Maptk Complex",
+  "id": "id-maptalks-complex-3d",
+  "dataFormats": ["table"],
+  "info": {
+    "description": "ES Maptk",
+    "author": {
+      "name": "Nam Le"
+    },
+    "keywords": [],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+
+  "dependencies": {
+    "grafanaVersion": "6.3.x",
+    "plugins": []
+  }
+}
